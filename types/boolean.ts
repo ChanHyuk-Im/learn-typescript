@@ -1,1 +1,0 @@
-let isBool: boolean = true;
